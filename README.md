@@ -2,7 +2,7 @@
 
 Submitted by: **Naysha Jain**
 
-**Name of your app** is an app that lets users create, update, complete, and save tasks with optional notes and due dates, storing everything persistently using UserDefaults.
+**Task App** is an app that lets users create, update, complete, and save tasks with optional notes and due dates, storing everything persistently using UserDefaults.
 
 Time spent: **2** hours spent in total
 
